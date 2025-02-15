@@ -142,3 +142,4 @@ java -jar target/httpserver-1.0-SNAPSHOT.jar [포트번호]
 - **404 Not Found 에러:**  
   요청한 URL이 `/tasks` 또는 `/status`와 일치하는지 확인하세요.
 
+## 분산시스템을 적용한 http-client와 같이 사용하세요!
